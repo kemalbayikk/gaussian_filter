@@ -1,1 +1,1 @@
-# gaussian_filter
+# Gaussian filter MATLAB function. Image smoothing with Gaussian Filter.
